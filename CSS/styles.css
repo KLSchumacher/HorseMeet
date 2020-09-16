@@ -13,12 +13,12 @@ font-family: 'Sarabun', sans-serif;
   font-family: 'Grandstander', cursive;
 }
 
-#horse-meet {
-  color: white;
-  font-size: 1.75rem;
+.horse-meet {
+  color: white !important;
+  font-size: 1.75rem !important;
 }
 
-#info {
+.info {
   margin-top: 20px;
 }
 
@@ -44,7 +44,7 @@ font-family: 'Sarabun', sans-serif;
   background-image: linear-gradient(#D8D8D8, #969591);
 }
 
-#profilePicture {
+.profilePicture {
   width: 500px;
   padding-top: 15px;
 }
