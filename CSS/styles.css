@@ -32,6 +32,11 @@ font-family: 'Sarabun', sans-serif;
   margin-right: 0;
 }
 
+.row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
 .parent {
   display: flex;
   justify-content: center;
