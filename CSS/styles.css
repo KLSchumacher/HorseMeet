@@ -44,9 +44,16 @@ font-family: 'Sarabun', sans-serif;
 }
 
 .child {
-  display: flex;
-  justify-content: center;
+  display: block;
+  text-align: left;
   background-image: linear-gradient(#D8D8D8, #969591);
+  min-height: 70vh;
+}
+.carousel-item {
+}
+
+.center-text {
+  margin-left: 33.5%;
 }
 
 .profilePicture {
@@ -115,6 +122,7 @@ font-family: 'Sarabun', sans-serif;
 #footer {
   text-align: center;
   font-size: 0.6rem;
-  color:#D8D8D8;
-  margin: 30px 0 30px;
+  color: black;
+  padding: 40px 0 30px;
+  background-image: linear-gradient(#969591, #D8D8D8);
 }
