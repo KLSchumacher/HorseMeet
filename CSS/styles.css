@@ -47,13 +47,12 @@ font-family: 'Sarabun', sans-serif;
   display: block;
   text-align: left;
   background-image: linear-gradient(#D8D8D8, #969591);
-  min-height: 70vh;
-}
-.carousel-item {
+  min-height: 80vh;
 }
 
 .center-text {
   margin-left: 33.5%;
+  max-width: 500px;
 }
 
 .profilePicture {
