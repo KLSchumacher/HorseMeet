@@ -37,6 +37,8 @@ font-family: 'Sarabun', sans-serif;
   margin-right: 0 !important;
 }
 
+
+
 .parent {
   display: flex;
   justify-content: center;
@@ -45,19 +47,20 @@ font-family: 'Sarabun', sans-serif;
 
 .child {
   display: block;
+  align-items: center;
   text-align: left;
   background-image: linear-gradient(#D8D8D8, #969591);
-  min-height: 80vh;
+  min-height: 20vh;
 }
 
 .center-text {
-  margin-left: 33.5%;
-  max-width: 500px;
+  max-width: 40%;
+  margin: 0 auto;
+  text-align: left;
 }
 
 .profilePicture {
-  width: 500px;
-  max-height: 1000px;
+  width: 40%;
   padding-top: 15px;
 }
 
@@ -68,10 +71,7 @@ font-family: 'Sarabun', sans-serif;
 
 .name {
   font-family: 'Lustria', serif;
-  position: absolute;
-  bottom: 2rem;
-  left: 10px;
-  margin-bottom: 30px;
+  font-size: 2.5rem;
 }
 
 .distance {
