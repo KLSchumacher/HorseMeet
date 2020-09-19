@@ -55,12 +55,15 @@ font-family: 'Sarabun', sans-serif;
 
 .center-text {
   max-width: 40%;
+  max-height: 60%;
   margin: 0 auto;
   text-align: left;
 }
 
 .profilePicture {
   width: 40%;
+  max-height: 60%;
+  overflow: hidden;
   padding-top: 15px;
 }
 
