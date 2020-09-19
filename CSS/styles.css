@@ -57,6 +57,7 @@ font-family: 'Sarabun', sans-serif;
 
 .profilePicture {
   width: 500px;
+  max-height: 1000px;
   padding-top: 15px;
 }
 
