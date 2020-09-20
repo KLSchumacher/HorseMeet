@@ -37,8 +37,6 @@ font-family: 'Sarabun', sans-serif;
   margin-right: 0 !important;
 }
 
-
-
 .parent {
   display: flex;
   justify-content: center;
@@ -65,6 +63,17 @@ font-family: 'Sarabun', sans-serif;
   max-height: auto;
   overflow: hidden;
   padding-top: 15px;
+}
+
+.apples {
+  max-width: 70%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+.carousel-item {
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .images {
